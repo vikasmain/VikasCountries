@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VikasCountries</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
